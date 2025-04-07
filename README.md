@@ -1,5 +1,5 @@
 # Computational Macroeconomics
-Resources for an undergraduate course in computational macroeconomics.
+Resources for an undergraduate course in computational macroeconomics described in "A Python-based undergraduate course in computational macroeconomics" by Brian C. Jenkins.
 
 ## Contents
 1. *Lecture Notebooks:* Directory with bank and complete Jupyter Notebooks. You need [Jupyter](https://jupyter.org/) to view these.
