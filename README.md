@@ -8,8 +8,8 @@ Resources for an undergraduate course in computational macroeconomics described 
 4. *Data:* Python code for producing the data files used for lecture and assignments.
 5. *make_blank_notebooks.py:* Script for creating blank Jupyter Notebooks from completed ones. Removes results and code that has not been marked to be left. Retains Markdown cells and comments.
 
-## Lecture Notebooks Rendered with [nbviewer](https://nbviewer.jupyter.org/):
-You can view, but not edit or run, the class Notebooks by following the links below:
+## Lecture Notebooks:
+You can view, but not directly edit or run, the class Notebooks by following the links below:
 
 * Class 01: [Blank](https://github.com/letsgoexploring/computational-macroeconomics/blob/master/Lecture%20Notebooks/Econ126_Class_01_blank.ipynb) and [Complete](https://github.com/letsgoexploring/computational-macroeconomics/blob/master/Lecture%20Notebooks/Econ126_Class_01.ipynb)
 * Class 02: [Blank](https://github.com/letsgoexploring/computational-macroeconomics/blob/master/Lecture%20Notebooks/Econ126_Class_02_blank.ipynb) and [Complete](https://github.com/letsgoexploring/computational-macroeconomics/blob/master/Lecture%20Notebooks/Econ126_Class_02.ipynb)
